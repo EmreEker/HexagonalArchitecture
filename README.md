@@ -1,0 +1,1 @@
+This repository is a learning project aimed at understanding and implementing Hexagonal Architecture (also known as Ports and Adapters Architecture). 
